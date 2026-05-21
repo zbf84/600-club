@@ -1,3 +1,14 @@
+//1
+const earning = 100;
+const expense = 40;
+const remaining= earning-expense;
+console.log(remaining);
+//2
+let numberofPencil = 10;
+let usedEachTime = 2;
+let totalTimeUse = (numberofPencil/totalTimeUse);
+console.log(totalTimeUse);
+
 //3
 const totalMoney = 60;
 const expensePerEvent = 15;
